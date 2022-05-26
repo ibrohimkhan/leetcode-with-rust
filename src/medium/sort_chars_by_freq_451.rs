@@ -33,7 +33,7 @@ mod tests {
     fn test_1() {
         let s = "tree".to_string();
         let result = Solution::frequency_sort(s);
-        assert_eq!(result, "eert".to_string());
+        assert_eq!(result, "eetr".to_string());
     }
 
     #[test]
