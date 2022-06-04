@@ -34,8 +34,6 @@ impl Solution {
 mod tests {
     use crate::Solution;
 
-    use super::*;
-
     #[test]
     fn test_1() {
         let dictionary = vec!["cat".to_string(), "bat".to_string(), "rat".to_string()];

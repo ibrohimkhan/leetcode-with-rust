@@ -46,6 +46,8 @@ impl Solution {
         }
 
         let a = 4;
+
+        #[allow(non_snake_case)]
         let aL = i32::pow(a, L as u32);
 
         let map = HashMap::from([('A', 0), ('C', 1), ('G', 2), ('T', 3)]);
