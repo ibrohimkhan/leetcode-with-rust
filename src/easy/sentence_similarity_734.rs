@@ -8,27 +8,27 @@ impl Solution {
         sentence2: Vec<String>,
         similar_pairs: Vec<Vec<String>>,
     ) -> bool {
-        use std::collections::HashMap;
+        use std::collections::HashSet;
 
         if sentence1.len() != sentence2.len() {
             return false;
         }
 
-        let mut map = HashMap::new();
+        let mut set = HashSet::new();
         for pair in similar_pairs {
             if pair.is_empty() {
                 continue;
             }
 
             let key = pair[0].to_owned() + ":" + pair[1].as_str();
-            map.entry(key).or_insert(1);
+            set.insert(key);
         }
 
         for index in 0..sentence1.len() {
             let word1 = sentence1[index].to_owned() + ":" + sentence2[index].to_owned().as_str();
             let word2 = sentence2[index].to_owned() + ":" + sentence1[index].to_owned().as_str();
  
-            if !map.is_empty() && !map.contains_key(&word1) && !map.contains_key(&word2) && sentence1[index] != sentence2[index] {
+            if !set.is_empty() && !set.contains(&word1) && !set.contains(&word2) && sentence1[index] != sentence2[index] {
                 return false;
             }
         }
