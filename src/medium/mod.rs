@@ -14,3 +14,4 @@ pub mod longest_substr_with_at_most_two_distinct_chars_159;
 pub mod implement_trie_208;
 pub mod compare_version_numbers_165;
 pub mod word_break_139;
+pub mod maximum_product_of_word_lengths_318;
