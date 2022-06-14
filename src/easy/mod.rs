@@ -3,3 +3,4 @@ pub mod number_of_segments_in_string_434;
 pub mod sentence_similarity_734;
 pub mod percentage_of_letter_in_str_2278;
 pub mod increasing_decreasing_string_1370;
+pub mod count_binary_substriings_696;
