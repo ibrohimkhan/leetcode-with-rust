@@ -4,3 +4,4 @@ pub mod sentence_similarity_734;
 pub mod percentage_of_letter_in_str_2278;
 pub mod increasing_decreasing_string_1370;
 pub mod count_binary_substrings_696;
+pub mod count_vowel_substrings_of_a_string_2062;
