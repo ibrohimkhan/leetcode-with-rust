@@ -5,3 +5,4 @@ pub mod percentage_of_letter_in_str_2278;
 pub mod increasing_decreasing_string_1370;
 pub mod count_binary_substrings_696;
 pub mod count_vowel_substrings_of_a_string_2062;
+pub mod check_if_number_has_equal_digit_count_and_digit_value_2283;
