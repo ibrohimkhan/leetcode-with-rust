@@ -9,4 +9,5 @@ pub mod check_if_number_has_equal_digit_count_and_digit_value_2283;
 pub mod number_of_lines_to_write_str_806;
 pub mod di_string_match_942;
 pub mod remove_palindromic_subsequences_1332;
+pub mod shortest_word_distance_243;
 
