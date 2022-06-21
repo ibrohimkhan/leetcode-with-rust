@@ -10,4 +10,5 @@ pub mod number_of_lines_to_write_str_806;
 pub mod di_string_match_942;
 pub mod remove_palindromic_subsequences_1332;
 pub mod shortest_word_distance_243;
+pub mod longest_nice_substring_1763;
 
