@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/shortest-completing-word/
 
-use std::ascii::AsciiExt;
-
 use crate::Solution;
 
 impl Solution {
