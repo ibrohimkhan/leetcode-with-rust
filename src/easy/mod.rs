@@ -16,4 +16,5 @@ pub mod shortest_completing_word_748;
 pub mod greatest_english_letter_in_upper_and_lower_case_2309;
 pub mod crawler_log_folder_1598;
 pub mod slowest_key_1629;
+pub mod thousand_separator_1556;
 
