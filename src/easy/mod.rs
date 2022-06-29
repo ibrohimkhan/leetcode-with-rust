@@ -18,4 +18,5 @@ pub mod crawler_log_folder_1598;
 pub mod slowest_key_1629;
 pub mod thousand_separator_1556;
 pub mod largest_3_same_digit_number_in_string_2264;
+pub mod count_asterisks_2315;
 
