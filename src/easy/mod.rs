@@ -20,4 +20,5 @@ pub mod thousand_separator_1556;
 pub mod largest_3_same_digit_number_in_string_2264;
 pub mod count_asterisks_2315;
 pub mod reformat_phone_number_1694;
+pub mod minimum_number_of_operations_to_convert_time_2224;
 
