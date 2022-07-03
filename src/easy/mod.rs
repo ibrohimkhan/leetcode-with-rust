@@ -22,4 +22,5 @@ pub mod count_asterisks_2315;
 pub mod reformat_phone_number_1694;
 pub mod minimum_number_of_operations_to_convert_time_2224;
 pub mod flip_game_293;
+pub mod index_pairs_of_string_1065;
 
