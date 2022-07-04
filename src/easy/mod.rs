@@ -24,3 +24,6 @@ pub mod minimum_number_of_operations_to_convert_time_2224;
 pub mod flip_game_293;
 pub mod index_pairs_of_string_1065;
 
+#[allow(non_snake_case)]
+pub mod longest_uncommon_subsequence_I_521;
+
