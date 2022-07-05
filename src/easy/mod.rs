@@ -26,4 +26,5 @@ pub mod index_pairs_of_string_1065;
 
 #[allow(non_snake_case)]
 pub mod longest_uncommon_subsequence_I_521;
+pub mod check_if_string_is_a_prefix_of_array_1961;
 
