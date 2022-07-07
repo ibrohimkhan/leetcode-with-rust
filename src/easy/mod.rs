@@ -28,4 +28,5 @@ pub mod index_pairs_of_string_1065;
 pub mod longest_uncommon_subsequence_I_521;
 pub mod check_if_string_is_a_prefix_of_array_1961;
 pub mod rotate_string_796;
+pub mod decode_the_message_2325;
 
