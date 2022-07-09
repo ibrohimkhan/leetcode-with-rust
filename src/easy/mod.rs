@@ -30,4 +30,5 @@ pub mod check_if_string_is_a_prefix_of_array_1961;
 pub mod rotate_string_796;
 pub mod decode_the_message_2325;
 pub mod day_of_the_year_1154;
+pub mod find_the_k_beauty_of_a_number_2269;
 
