@@ -33,4 +33,5 @@ pub mod day_of_the_year_1154;
 pub mod find_the_k_beauty_of_a_number_2269;
 pub mod maximum_repeating_substring_1668;
 pub mod make_the_string_great_1544;
+pub mod reverse_string_ii_541;
 
