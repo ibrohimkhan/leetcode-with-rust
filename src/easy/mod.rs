@@ -34,4 +34,5 @@ pub mod find_the_k_beauty_of_a_number_2269;
 pub mod maximum_repeating_substring_1668;
 pub mod make_the_string_great_1544;
 pub mod reverse_string_ii_541;
+pub mod delete_chars_to_make_fancy_str_1957;
 
