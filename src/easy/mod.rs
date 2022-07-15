@@ -36,4 +36,5 @@ pub mod make_the_string_great_1544;
 pub mod reverse_string_ii_541;
 pub mod delete_chars_to_make_fancy_str_1957;
 pub mod reformat_the_string_1417;
+pub mod minimum_moves_to_convert_string_2027;
 
