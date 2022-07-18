@@ -39,4 +39,5 @@ pub mod reformat_the_string_1417;
 pub mod minimum_moves_to_convert_string_2027;
 pub mod number_of_days_between_two_dates_1360;
 pub mod license_key_formatting_482;
+pub mod check_if_one_string_swap_can_make_strings_equal_1790;
 
