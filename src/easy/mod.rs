@@ -41,4 +41,5 @@ pub mod number_of_days_between_two_dates_1360;
 pub mod license_key_formatting_482;
 pub mod check_if_one_string_swap_can_make_strings_equal_1790;
 pub mod second_largest_digit_in_string_1796;
+pub mod remove_digit_from_number_to_maximize_result_2259;
 
