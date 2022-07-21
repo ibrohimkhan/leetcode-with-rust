@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
-
 use crate::Solution;
 
 impl Solution {
@@ -11,11 +10,13 @@ impl Solution {
             if nums[i] == digit && nums[i] < nums[i + 1] {
                 return number[..i].to_string() + number[i + 1..].as_ref();
             }
-
+            
             i += 1;
         }
-
+        
         i = number.len() - 1;
+        
+        #[allow(unused_comparisons)]
         while i >= 0 {
             if nums[i] == digit {
                 return number[..i].to_string() + number[i + 1..].as_ref();
