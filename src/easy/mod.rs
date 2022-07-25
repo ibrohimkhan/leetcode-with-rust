@@ -46,4 +46,5 @@ pub mod greatest_common_divisor_of_strings_1071;
 pub mod rearrange_chars_to_make_target_string_2287;
 pub mod verifying_an_alien_dictionary_953;
 pub mod strong_password_checker_ii_2299;
+pub mod path_crossing_1496;
 
