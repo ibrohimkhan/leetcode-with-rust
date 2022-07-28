@@ -49,4 +49,5 @@ pub mod strong_password_checker_ii_2299;
 pub mod path_crossing_1496;
 pub mod hexspeak_1271;
 pub mod check_if_string_is_decomposable_into_value_equal_substr_1933;
+pub mod positions_of_large_groups_830;
 
