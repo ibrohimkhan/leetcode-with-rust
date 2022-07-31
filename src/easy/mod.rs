@@ -52,4 +52,5 @@ pub mod check_if_string_is_decomposable_into_value_equal_substr_1933;
 pub mod positions_of_large_groups_830;
 pub mod backspace_string_compare_844;
 pub mod strobogrammatic_number_246;
+pub mod first_letter_to_appear_twice_2351;
 
