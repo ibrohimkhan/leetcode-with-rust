@@ -54,4 +54,5 @@ pub mod backspace_string_compare_844;
 pub mod strobogrammatic_number_246;
 pub mod first_letter_to_appear_twice_2351;
 pub mod check_if_binary_string_has_at_most_one_segment_of_ones_1784;
+pub mod find_resultant_array_after_removing_anagrams_2273;
 
