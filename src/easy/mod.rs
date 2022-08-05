@@ -57,4 +57,5 @@ pub mod check_if_binary_string_has_at_most_one_segment_of_ones_1784;
 pub mod find_resultant_array_after_removing_anagrams_2273;
 pub mod perform_string_shifts_1427;
 pub mod valid_word_abbreviation_408;
+pub mod rearrange_spaces_between_words_1592;
 
