@@ -59,4 +59,5 @@ pub mod perform_string_shifts_1427;
 pub mod valid_word_abbreviation_408;
 pub mod rearrange_spaces_between_words_1592;
 pub mod repeated_substring_pattern_459;
+pub mod isomorphic_strings_205;
 
