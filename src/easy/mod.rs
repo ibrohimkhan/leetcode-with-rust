@@ -61,4 +61,5 @@ pub mod rearrange_spaces_between_words_1592;
 pub mod repeated_substring_pattern_459;
 pub mod isomorphic_strings_205;
 pub mod latest_time_by_replacing_hidden_digits_1736;
+pub mod word_pattern_290;
 
