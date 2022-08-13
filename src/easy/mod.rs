@@ -65,4 +65,5 @@ pub mod word_pattern_290;
 pub mod number_of_valid_words_in_a_sentence_2047;
 pub mod buddy_strings_859;
 pub mod similar_rgb_color_800;
+pub mod palindrome_permutation_266;
 
