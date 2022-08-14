@@ -66,4 +66,5 @@ pub mod number_of_valid_words_in_a_sentence_2047;
 pub mod buddy_strings_859;
 pub mod similar_rgb_color_800;
 pub mod palindrome_permutation_266;
+pub mod min_changes_to_make_alternating_binary_str_1758;
 
