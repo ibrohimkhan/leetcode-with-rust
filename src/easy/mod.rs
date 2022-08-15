@@ -67,4 +67,5 @@ pub mod buddy_strings_859;
 pub mod similar_rgb_color_800;
 pub mod palindrome_permutation_266;
 pub mod min_changes_to_make_alternating_binary_str_1758;
+pub mod longest_palindrome_409;
 
