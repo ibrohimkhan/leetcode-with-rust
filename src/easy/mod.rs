@@ -70,4 +70,5 @@ pub mod min_changes_to_make_alternating_binary_str_1758;
 pub mod longest_palindrome_409;
 pub mod valid_palindrome2_680;
 pub mod palindrome_numbeer_9;
+pub mod sqrtx_69;
 
