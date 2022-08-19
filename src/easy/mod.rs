@@ -71,4 +71,5 @@ pub mod longest_palindrome_409;
 pub mod valid_palindrome2_680;
 pub mod palindrome_numbeer_9;
 pub mod sqrtx_69;
+pub mod single_number_136;
 
