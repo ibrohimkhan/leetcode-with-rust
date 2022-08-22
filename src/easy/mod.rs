@@ -74,4 +74,5 @@ pub mod sqrtx_69;
 pub mod single_number_136;
 pub mod divide_array_into_equal_pairs_2206;
 pub mod sum_of_all_odd_length_subarrays_1588;
+pub mod matrix_diagonal_sum_1572;
 
