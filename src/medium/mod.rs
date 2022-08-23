@@ -16,3 +16,5 @@ pub mod compare_version_numbers_165;
 pub mod word_break_139;
 pub mod maximum_product_of_word_lengths_318;
 pub mod remove_k_digits_402;
+pub mod find_first_and_last_position_of_element_is_sorted_array_34;
+
