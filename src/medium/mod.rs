@@ -18,3 +18,6 @@ pub mod maximum_product_of_word_lengths_318;
 pub mod remove_k_digits_402;
 pub mod find_first_and_last_position_of_element_is_sorted_array_34;
 
+#[allow(non_snake_case)]
+pub mod remove_duplicates_from_sorted_array_II_80;
+
