@@ -1,18 +1,22 @@
 // https://leetcode.com/problems/implement-trie-prefix-tree/
 
+#[allow(dead_code)]
 const ASCII_A: usize = 97;
 
+#[allow(dead_code)]
 // converts ASCII char into usize, such that 'a' -> 0, 'b' -> 1, ..., 'z' -> 25
 fn to_index(ch: char) -> usize {
     ch as usize - ASCII_A
 }
 
+#[allow(dead_code)]
 #[derive(Debug, Default)]
 struct Trie {
     children: [Option<Box<Trie>>; 26],
     is_end: bool,
 }
 
+#[allow(dead_code)]
 /**
  * `&self` means the method takes an immutable reference.
  * If you need a mutable reference, change it to `&mut self` instead.
