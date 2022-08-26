@@ -22,4 +22,5 @@ pub mod find_first_and_last_position_of_element_is_sorted_array_34;
 pub mod remove_duplicates_from_sorted_array_II_80;
 
 pub mod minimize_product_sum_of_two_arrays_1874;
+pub mod dot_product_of_two_sparse_vectors_1570;
 
