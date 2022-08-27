@@ -23,4 +23,5 @@ pub mod remove_duplicates_from_sorted_array_II_80;
 
 pub mod minimize_product_sum_of_two_arrays_1874;
 pub mod dot_product_of_two_sparse_vectors_1570;
+pub mod container_with_most_water_11;
 
