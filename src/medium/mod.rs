@@ -25,4 +25,5 @@ pub mod minimize_product_sum_of_two_arrays_1874;
 pub mod dot_product_of_two_sparse_vectors_1570;
 pub mod container_with_most_water_11;
 pub mod subrectangle_queries_1476;
+pub mod max_increase_to_keep_city_skyline_807;
 
