@@ -27,4 +27,5 @@ pub mod container_with_most_water_11;
 pub mod subrectangle_queries_1476;
 pub mod max_increase_to_keep_city_skyline_807;
 pub mod sum_of_subarray_ranges_2104;
+pub mod subsets_78;
 
