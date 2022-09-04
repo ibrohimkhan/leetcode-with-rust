@@ -31,4 +31,5 @@ pub mod subsets_78;
 pub mod combination_sum_iii_216;
 pub mod sort_the_matrix_diagonally_1329;
 pub mod minimum_number_of_operations_to_move_all_balls_to_each_box_1769;
+pub mod longest_common_subsequence_btwn_sorted_arrays_1940;
 
