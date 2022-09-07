@@ -34,4 +34,5 @@ pub mod minimum_number_of_operations_to_move_all_balls_to_each_box_1769;
 pub mod longest_common_subsequence_btwn_sorted_arrays_1940;
 pub mod finding_the_user_active_minutes_1817;
 pub mod buildings_with_an_ocean_view_1762;
+pub mod minimum_amount_of_time_to_collect_garbage_2391;
 
