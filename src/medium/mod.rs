@@ -36,4 +36,5 @@ pub mod finding_the_user_active_minutes_1817;
 pub mod buildings_with_an_ocean_view_1762;
 pub mod minimum_amount_of_time_to_collect_garbage_2391;
 pub mod watering_plants_2079;
+pub mod maximum_number_of_coin_you_can_get_1561;
 
