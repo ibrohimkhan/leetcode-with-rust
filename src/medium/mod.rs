@@ -38,4 +38,5 @@ pub mod minimum_amount_of_time_to_collect_garbage_2391;
 pub mod watering_plants_2079;
 pub mod maximum_number_of_coin_you_can_get_1561;
 pub mod minimize_maximum_pair_sum_in_array_1877;
+pub mod rearrange_array_elements_by_sign_2149;
 
