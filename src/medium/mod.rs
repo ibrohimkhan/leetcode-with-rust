@@ -42,4 +42,5 @@ pub mod rearrange_array_elements_by_sign_2149;
 pub mod group_the_people_given_the_group_size_they_belong_to_1282;
 pub mod queries_on_number_of_points_inside_a_circle_1828;
 pub mod widest_vertical_area_between_two_points_containing_no_points_1637;
+pub mod count_strictly_increasing_subarrays_2393;
 
