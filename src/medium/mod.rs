@@ -46,4 +46,5 @@ pub mod count_strictly_increasing_subarrays_2393;
 pub mod find_all_duplicates_in_an_array_442;
 pub mod distinct_numbers_in_each_subarray_1852;
 pub mod apply_discount_every_n_orders_1357;
+pub mod range_addition_370;
 
