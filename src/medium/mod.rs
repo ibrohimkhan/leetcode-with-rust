@@ -48,4 +48,5 @@ pub mod distinct_numbers_in_each_subarray_1852;
 pub mod apply_discount_every_n_orders_1357;
 pub mod range_addition_370;
 pub mod minimum_operations_to_make_array_equal_1551;
+pub mod number_of_laser_beams_in_a_bank_2125;
 
