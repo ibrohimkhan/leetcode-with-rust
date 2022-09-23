@@ -50,4 +50,5 @@ pub mod range_addition_370;
 pub mod minimum_operations_to_make_array_equal_1551;
 pub mod number_of_laser_beams_in_a_bank_2125;
 pub mod reverse_integer_7;
+pub mod convert_to_base_2_1017;
 
