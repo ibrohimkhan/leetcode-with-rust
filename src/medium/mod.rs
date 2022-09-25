@@ -52,4 +52,5 @@ pub mod number_of_laser_beams_in_a_bank_2125;
 pub mod reverse_integer_7;
 pub mod convert_to_base_2_1017;
 pub mod integer_break_343;
+pub mod arithmetic_slices_413;
 
