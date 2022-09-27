@@ -54,4 +54,5 @@ pub mod convert_to_base_2_1017;
 pub mod integer_break_343;
 pub mod arithmetic_slices_413;
 pub mod pancake_sorting_969;
+pub mod reduce_array_size_to_the_half_1338;
 
