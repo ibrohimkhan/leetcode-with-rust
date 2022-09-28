@@ -55,4 +55,5 @@ pub mod integer_break_343;
 pub mod arithmetic_slices_413;
 pub mod pancake_sorting_969;
 pub mod reduce_array_size_to_the_half_1338;
+pub mod sum_of_even_numbers_after_queries_985;
 
