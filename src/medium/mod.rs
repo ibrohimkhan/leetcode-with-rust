@@ -57,4 +57,5 @@ pub mod pancake_sorting_969;
 pub mod reduce_array_size_to_the_half_1338;
 pub mod sum_of_even_numbers_after_queries_985;
 pub mod count_number_of_teams_1395;
+pub mod battleships_in_a_board_419;
 
