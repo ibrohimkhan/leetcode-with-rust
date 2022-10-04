@@ -3,19 +3,31 @@
 use crate::Solution;
 
 impl Solution {
-    pub fn reverse_string(s: &mut Vec<char>) {
-        s.reverse();
-    }
-}
+    /*
+        There is no Rust version for this task. Here is Java impl:
+        class Solution {
+            public int search(ArrayReader reader, int target) {
+                if (reader.get(0) == target) return 0;
+                
+                int left = 0;
+                int right = 1;
+                
+                while (reader.get(right) < target) {
+                    left = right;
+                    right <<= 1;
+                }
+                
+                while (left <= right) {
+                    int pivot = left + ((right - left) >> 1);
+                    int num = reader.get(pivot);
 
-#[cfg(test)]
-mod tests {
-    use crate::Solution;
-
-    #[test]
-    fn test_1() {
-        let mut s = vec!['h', 'e', 'l', 'l', 'o'];
-        Solution::reverse_string(&mut s);
-        assert_eq!(s, vec!['o', 'l', 'l', 'e', 'h']);
-    }
+                    if (num == target) return pivot;
+                    else if (num > target) right = pivot - 1;
+                    else left = pivot + 1;
+                }
+                
+                return -1;
+            }
+        }
+    */
 }
