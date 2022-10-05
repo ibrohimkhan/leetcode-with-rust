@@ -62,4 +62,5 @@ pub mod search_in_a_sorted_array_of_unknown_size_702;
 pub mod wiggle_sort_280;
 pub mod divide_two_integers_29;
 pub mod search_in_rotated_sorted_array_33;
+pub mod find_triangular_sum_of_an_array_2221;
 
