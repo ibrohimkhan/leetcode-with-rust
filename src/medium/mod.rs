@@ -63,4 +63,5 @@ pub mod wiggle_sort_280;
 pub mod divide_two_integers_29;
 pub mod search_in_rotated_sorted_array_33;
 pub mod find_triangular_sum_of_an_array_2221;
+pub mod deesign_browser_history_1472;
 
