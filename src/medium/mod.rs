@@ -65,4 +65,5 @@ pub mod search_in_rotated_sorted_array_33;
 pub mod find_triangular_sum_of_an_array_2221;
 pub mod deesign_browser_history_1472;
 pub mod rotate_image_48;
+pub mod minimum_number_of_keypresses_2268;
 
