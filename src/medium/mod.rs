@@ -67,4 +67,5 @@ pub mod deesign_browser_history_1472;
 pub mod rotate_image_48;
 pub mod minimum_number_of_keypresses_2268;
 pub mod subdomain_visit_count_811;
+pub mod reveal_cards_in_increasing_order_950;
 
