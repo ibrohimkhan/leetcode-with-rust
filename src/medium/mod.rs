@@ -71,4 +71,5 @@ pub mod reveal_cards_in_increasing_order_950;
 pub mod minimum_adjacent_swaps_to_make_a_valid_array_2340;
 pub mod matrix_block_sum_1314;
 pub mod maximum_sum_of_an_hourglass_2428;
+pub mod integer_to_roman_12;
 
