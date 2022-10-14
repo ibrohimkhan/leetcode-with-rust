@@ -74,4 +74,5 @@ pub mod maximum_sum_of_an_hourglass_2428;
 pub mod integer_to_roman_12;
 pub mod find_and_replace_pattern_890;
 pub mod find_the_winner_of_the_circular_game_1823;
+pub mod arithmetic_subarrays_1630;
 
