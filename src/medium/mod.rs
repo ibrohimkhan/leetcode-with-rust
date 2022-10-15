@@ -76,4 +76,5 @@ pub mod find_and_replace_pattern_890;
 pub mod find_the_winner_of_the_circular_game_1823;
 pub mod arithmetic_subarrays_1630;
 pub mod maximize_total_tastiness_of_purchased_fruits_2431;
+pub mod find_the_original_array_of_prefix_xor_2433;
 
