@@ -78,4 +78,5 @@ pub mod arithmetic_subarrays_1630;
 pub mod maximize_total_tastiness_of_purchased_fruits_2431;
 pub mod find_the_original_array_of_prefix_xor_2433;
 pub mod partition_array_according_to_given_pivot_2161;
+pub mod find_valid_matrix_given_row_and_column_sums_1605;
 
