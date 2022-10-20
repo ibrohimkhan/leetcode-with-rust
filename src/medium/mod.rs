@@ -83,4 +83,5 @@ pub mod elements_in_array_after_removing_and_replacing_elements_2113;
 pub mod peak_index_in_a_mountain_array_852;
 pub mod find_players_with_zero_or_one_losses_2225;
 pub mod restore_the_array_from_adjacent_pairs_1743;
+pub mod sort_features_by_popularity_1772;
 
