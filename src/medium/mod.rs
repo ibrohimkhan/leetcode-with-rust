@@ -87,4 +87,5 @@ pub mod sort_features_by_popularity_1772;
 pub mod simple_bank_system_2043;
 pub mod koko_eating_bananas_875;
 pub mod sort_an_array_912;
+pub mod remove_interval_1272;
 
