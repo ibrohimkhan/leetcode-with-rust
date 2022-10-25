@@ -88,4 +88,5 @@ pub mod simple_bank_system_2043;
 pub mod koko_eating_bananas_875;
 pub mod sort_an_array_912;
 pub mod remove_interval_1272;
+pub mod kth_smallest_element_in_a_sorted_matrix_378;
 
