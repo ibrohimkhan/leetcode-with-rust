@@ -90,4 +90,5 @@ pub mod sort_an_array_912;
 pub mod remove_interval_1272;
 pub mod kth_smallest_element_in_a_sorted_matrix_378;
 pub mod reduction_operations_to_make_the_array_elements_equal_1887;
+pub mod average_waiting_time_1701;
 
