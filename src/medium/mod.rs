@@ -94,4 +94,5 @@ pub mod average_waiting_time_1701;
 pub mod zigzag_iterator_281;
 pub mod flatten_2d_vector_251;
 pub mod find_all_lonely_numbers_in_the_array_2150;
+pub mod short_encoding_of_words_820;
 
