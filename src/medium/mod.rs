@@ -95,4 +95,5 @@ pub mod zigzag_iterator_281;
 pub mod flatten_2d_vector_251;
 pub mod find_all_lonely_numbers_in_the_array_2150;
 pub mod short_encoding_of_words_820;
+pub mod coount_number_of_distinct_integers_after_reverse_operations_2442;
 
