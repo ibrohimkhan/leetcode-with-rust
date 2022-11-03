@@ -97,4 +97,5 @@ pub mod find_all_lonely_numbers_in_the_array_2150;
 pub mod short_encoding_of_words_820;
 pub mod coount_number_of_distinct_integers_after_reverse_operations_2442;
 pub mod remove_all_ones_with_row_and_column_flips_2128;
+pub mod find_smallest_common_element_in_all_rows_1198;
 
