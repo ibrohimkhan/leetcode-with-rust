@@ -99,4 +99,5 @@ pub mod coount_number_of_distinct_integers_after_reverse_operations_2442;
 pub mod remove_all_ones_with_row_and_column_flips_2128;
 pub mod find_smallest_common_element_in_all_rows_1198;
 pub mod count_number_of_pairs_with_absolute_difference_k_2006;
+pub mod design_a_stack_with_increment_operation_1381;
 
