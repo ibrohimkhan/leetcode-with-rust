@@ -103,4 +103,5 @@ pub mod design_a_stack_with_increment_operation_1381;
 pub mod sort_colors_75;
 pub mod sort_transformed_array_360;
 pub mod group_anagrams_49;
+pub mod spiral_matrix_54;
 
