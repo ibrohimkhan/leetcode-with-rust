@@ -104,4 +104,5 @@ pub mod sort_colors_75;
 pub mod sort_transformed_array_360;
 pub mod group_anagrams_49;
 pub mod spiral_matrix_54;
+pub mod largest_values_from_labels_1090;
 
