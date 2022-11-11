@@ -106,4 +106,5 @@ pub mod group_anagrams_49;
 pub mod spiral_matrix_54;
 pub mod largest_values_from_labels_1090;
 pub mod validate_stack_sequences_946;
+pub mod merge_operations_to_turn_array_into_a_palindrome_2422;
 
