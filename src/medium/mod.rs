@@ -109,4 +109,5 @@ pub mod validate_stack_sequences_946;
 pub mod merge_operations_to_turn_array_into_a_palindrome_2422;
 pub mod number_of_pairs_of_str_with_concat_eq_to_target_2023;
 pub mod partition_array_such_that_maximum_difference_is_k_2294;
+pub mod bold_words_in_string_758;
 
