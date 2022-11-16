@@ -111,4 +111,5 @@ pub mod number_of_pairs_of_str_with_concat_eq_to_target_2023;
 pub mod partition_array_such_that_maximum_difference_is_k_2294;
 pub mod bold_words_in_string_758;
 pub mod non_decreasing_array_665;
+pub mod find_k_closest_elements_658;
 
