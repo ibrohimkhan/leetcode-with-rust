@@ -116,4 +116,5 @@ pub mod split_array_into_consecutive_subsequences_659;
 pub mod number_of_subarrays_of_sizek_and_avg_greater_than_or_eq_to_threshold_1343;
 pub mod design_hit_counter_362;
 pub mod max_number_of_groups_entering_a_competition_2358;
+pub mod top_k_frequent_elements_347;
 
