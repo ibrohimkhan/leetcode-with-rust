@@ -78,4 +78,5 @@ pub mod matrix_diagonal_sum_1572;
 pub mod determine_wether_matrix_can_be_obtained_by_rotation_1886;
 pub mod sort_the_people_2418;
 pub mod array_transformation_1243;
+pub mod maximum_product_of_two_elements_in_array_1464;
 
