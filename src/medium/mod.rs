@@ -118,4 +118,5 @@ pub mod design_hit_counter_362;
 pub mod max_number_of_groups_entering_a_competition_2358;
 pub mod top_k_frequent_elements_347;
 pub mod kth_largest_element_in_array_215;
+pub mod find_kth_largest_integer_in_array_1985;
 
