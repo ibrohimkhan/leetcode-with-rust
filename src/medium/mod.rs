@@ -123,4 +123,5 @@ pub mod sum_of_absolute_differences_in_sorted_array_1685;
 pub mod the_k_strongest_values_in_array_1471;
 pub mod find_minimum_time_to_finish_all_jobs_2_2323;
 pub mod product_of_array_except_self_238;
+pub mod build_an_array_with_stack_operations_1441;
 
