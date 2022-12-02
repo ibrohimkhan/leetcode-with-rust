@@ -126,4 +126,5 @@ pub mod product_of_array_except_self_238;
 pub mod build_an_array_with_stack_operations_1441;
 pub mod equal_row_and_column_pairs_2352;
 pub mod k_closest_points_to_origin_973;
+pub mod maximum_sum_score_of_array_2219;
 
