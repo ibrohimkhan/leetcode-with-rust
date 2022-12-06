@@ -130,4 +130,5 @@ pub mod maximum_sum_score_of_array_2219;
 pub mod shortest_word_distance_2_244;
 pub mod shortest_word_distance_3_245;
 pub mod tuple_with_same_product_1726;
+pub mod merge_intervals_56;
 
