@@ -132,4 +132,5 @@ pub mod shortest_word_distance_3_245;
 pub mod tuple_with_same_product_1726;
 pub mod merge_intervals_56;
 pub mod insert_interval_57;
+pub mod partition_labels_763;
 
