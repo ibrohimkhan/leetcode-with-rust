@@ -133,4 +133,5 @@ pub mod tuple_with_same_product_1726;
 pub mod merge_intervals_56;
 pub mod insert_interval_57;
 pub mod partition_labels_763;
+pub mod interval_list_intersections_986;
 
