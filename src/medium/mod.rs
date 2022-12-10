@@ -134,4 +134,5 @@ pub mod merge_intervals_56;
 pub mod insert_interval_57;
 pub mod partition_labels_763;
 pub mod interval_list_intersections_986;
+pub mod divide_intervals_into_minimum_number_of_groups_2406;
 
