@@ -138,4 +138,5 @@ pub mod divide_intervals_into_minimum_number_of_groups_2406;
 pub mod corporate_flight_bookings_1109;
 pub mod difference_between_1_and_0_in_row_and_column_2482;
 pub mod permutations_46;
+pub mod count_square_submatrices_with_all_ones_1277;
 
