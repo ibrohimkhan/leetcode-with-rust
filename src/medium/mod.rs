@@ -139,4 +139,5 @@ pub mod corporate_flight_bookings_1109;
 pub mod difference_between_1_and_0_in_row_and_column_2482;
 pub mod permutations_46;
 pub mod count_square_submatrices_with_all_ones_1277;
+pub mod remove_sub_folders_from_the_filesystem_1233;
 
