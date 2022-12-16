@@ -140,4 +140,5 @@ pub mod difference_between_1_and_0_in_row_and_column_2482;
 pub mod permutations_46;
 pub mod count_square_submatrices_with_all_ones_1277;
 pub mod remove_sub_folders_from_the_filesystem_1233;
+pub mod rotating_the_box_1861;
 
