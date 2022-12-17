@@ -141,4 +141,5 @@ pub mod permutations_46;
 pub mod count_square_submatrices_with_all_ones_1277;
 pub mod remove_sub_folders_from_the_filesystem_1233;
 pub mod rotating_the_box_1861;
+pub mod encode_and_decode_tinyurl_535;
 
