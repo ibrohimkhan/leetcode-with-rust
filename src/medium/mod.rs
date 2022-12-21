@@ -145,4 +145,5 @@ pub mod encode_and_decode_tinyurl_535;
 pub mod generate_parentheses_22;
 pub mod different_ways_to_add_parentheses_241;
 pub mod remove_duplicate_letters_316;
+pub mod bulls_and_cows_299;
 
