@@ -147,4 +147,5 @@ pub mod different_ways_to_add_parentheses_241;
 pub mod remove_duplicate_letters_316;
 pub mod bulls_and_cows_299;
 pub mod string_compression_443;
+pub mod magical_string_481;
 
