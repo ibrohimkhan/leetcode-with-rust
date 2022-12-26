@@ -150,4 +150,5 @@ pub mod string_compression_443;
 pub mod magical_string_481;
 pub mod minimum_time_difference_539;
 pub mod top_k_frequent_words_692;
+pub mod longest_word_in_dictionary_720;
 
