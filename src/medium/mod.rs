@@ -158,4 +158,5 @@ pub mod optimal_partition_of_string_2405;
 pub mod design_underground_system_1396;
 pub mod minimum_number_of_steps_to_make_two_strings_anagram2_2186;
 pub mod minimum_number_of_swaps_to_make_the_string_balanced_1963;
+pub mod longest_consecutive_sequence_128;
 
