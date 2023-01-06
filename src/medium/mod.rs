@@ -161,4 +161,5 @@ pub mod minimum_number_of_swaps_to_make_the_string_balanced_1963;
 pub mod longest_consecutive_sequence_128;
 pub mod length_of_the_longest_alphabetical_continuous_substr_2414;
 pub mod minimum_rounds_to_complete_all_tasks_2244;
+pub mod maximum_ice_cream_bars_1833;
 
