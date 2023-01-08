@@ -163,4 +163,5 @@ pub mod length_of_the_longest_alphabetical_continuous_substr_2414;
 pub mod minimum_rounds_to_complete_all_tasks_2244;
 pub mod maximum_ice_cream_bars_1833;
 pub mod gas_station_134;
+pub mod letter_tile_possibilities_1079;
 
