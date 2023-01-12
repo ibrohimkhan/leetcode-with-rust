@@ -80,4 +80,5 @@ pub mod sort_the_people_2418;
 pub mod array_transformation_1243;
 pub mod maximum_product_of_two_elements_in_array_1464;
 pub mod merge_similar_items_2363;
+pub mod n_repeated_element_in_size_2n_array_961;
 
