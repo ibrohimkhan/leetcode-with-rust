@@ -83,4 +83,5 @@ pub mod merge_similar_items_2363;
 pub mod n_repeated_element_in_size_2n_array_961;
 pub mod number_of_arithmetic_triplets_2367;
 pub mod maximum_number_of_pairs_in_array_2341;
+pub mod unique_number_of_occurrences_1207;
 
