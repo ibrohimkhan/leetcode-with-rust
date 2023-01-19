@@ -87,4 +87,5 @@ pub mod unique_number_of_occurrences_1207;
 pub mod two_out_of_three_2032;
 pub mod make_array_zero_by_subtracting_equal_amounts_2357;
 pub mod next_greater_element1_496;
+pub mod make_two_arrays_eq_by_reversing_subarrays_1460;
 
