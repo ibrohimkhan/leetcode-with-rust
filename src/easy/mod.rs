@@ -90,4 +90,5 @@ pub mod next_greater_element1_496;
 pub mod make_two_arrays_eq_by_reversing_subarrays_1460;
 pub mod count_pairs_of_similar_strings_2506;
 pub mod find_the_difference_of_two_arrays_2215;
+pub mod intersection_of_multiple_arrays_2248;
 
