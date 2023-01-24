@@ -92,4 +92,5 @@ pub mod count_pairs_of_similar_strings_2506;
 pub mod find_the_difference_of_two_arrays_2215;
 pub mod intersection_of_multiple_arrays_2248;
 pub mod relative_sort_array_1122;
+pub mod missing_number_268;
 
