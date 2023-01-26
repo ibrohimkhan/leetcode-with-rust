@@ -94,4 +94,5 @@ pub mod intersection_of_multiple_arrays_2248;
 pub mod relative_sort_array_1122;
 pub mod missing_number_268;
 pub mod largest_positive_integer_that_exists_with_its_negative_2441;
+pub mod number_of_unequal_triplets_in_array_2475;
 
