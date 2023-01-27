@@ -95,4 +95,5 @@ pub mod relative_sort_array_1122;
 pub mod missing_number_268;
 pub mod largest_positive_integer_that_exists_with_its_negative_2441;
 pub mod number_of_unequal_triplets_in_array_2475;
+pub mod design_hash_set_705;
 
