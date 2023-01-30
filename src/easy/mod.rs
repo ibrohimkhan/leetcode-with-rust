@@ -98,4 +98,5 @@ pub mod number_of_unequal_triplets_in_array_2475;
 pub mod design_hash_set_705;
 pub mod find_subarrays_with_equal_sum_2395;
 pub mod majority_element_169;
+pub mod find_lucky_integer_in_array_1394;
 
