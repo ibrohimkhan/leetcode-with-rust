@@ -99,4 +99,5 @@ pub mod design_hash_set_705;
 pub mod find_subarrays_with_equal_sum_2395;
 pub mod majority_element_169;
 pub mod find_lucky_integer_in_array_1394;
+pub mod minimum_common_value_2540;
 
