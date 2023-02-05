@@ -102,4 +102,5 @@ pub mod find_lucky_integer_in_array_1394;
 pub mod minimum_common_value_2540;
 pub mod most_frequent_event_element_2404;
 pub mod number_of_distinct_averages_2465;
+pub mod set_mismatch_645;
 
