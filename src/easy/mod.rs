@@ -103,4 +103,5 @@ pub mod minimum_common_value_2540;
 pub mod most_frequent_event_element_2404;
 pub mod number_of_distinct_averages_2465;
 pub mod set_mismatch_645;
+pub mod find_subsequence_of_length_k_with_largest_sum_2099;
 
