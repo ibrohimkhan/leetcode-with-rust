@@ -107,4 +107,5 @@ pub mod find_subsequence_of_length_k_with_largest_sum_2099;
 pub mod most_frequent_number_following_key_in_array_2190;
 pub mod happy_number_202;
 pub mod rank_transform_of_an_array_1331;
+pub mod check_distances_between_same_letters_2399;
 
