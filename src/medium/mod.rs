@@ -166,4 +166,5 @@ pub mod gas_station_134;
 pub mod letter_tile_possibilities_1079;
 pub mod letter_combinations_of_a_phone_number_17;
 pub mod smallest_number_in_infinite_set_2336;
+pub mod subarray_sum_equals_k_560;
 
